@@ -1,0 +1,39 @@
+body {
+    background-color: #34495e;
+    line-height: 2;
+}
+
+.header {
+    color: #ecf0f1;
+    font-family: "Georgia" sans-serif;
+    font-weight: 300;
+    text-align: center;
+    padding-top: 50px;
+}
+
+.blurb {
+    color: #ecf0f1;
+    font-family: "Georgia" sans-serif;
+    padding-left: 20%;
+    padding-right: 20%;
+    text-align: center;
+}
+
+.links {
+    text-align: center;
+}
+
+.links a {
+     color: #f39c12;   
+     font-family: "Georgia" sans-serif;
+        -webkit-transition: color 500ms ease;
+    -moz-transition: color 500ms ease;
+    -ms-transition: color 500ms ease;
+    -o-transition: color 500ms ease;
+    transition: color 500ms ease;
+}
+
+.links a:hover { 
+    color: #ecf0f1;
+}
+
