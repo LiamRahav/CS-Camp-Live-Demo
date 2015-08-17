@@ -1,0 +1,18 @@
+body {
+    background-color: #34495e;
+}
+
+.first {
+    color: #ecf0f1;
+    font-family: "Helvetica" sans-serif;
+    font-weight: 300;
+    text-align: center;
+    padding-top: 50px;
+}
+
+.second {
+    color: #e74c3c;
+    font-family: "Merriweather" serif;
+    font-weight: 300;
+    text-align: left;
+}
